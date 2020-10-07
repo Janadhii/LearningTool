@@ -1,0 +1,38 @@
+#body {
+	margin: 0;
+	padding: 0;
+	position: relative;
+	width: auto;
+}
+#page {
+	margin: 0;
+	overflow: hidden;
+	padding: 0;
+	width: auto;
+  padding-left: 5%;
+}
+
+#header {
+	background-color:#2d73a6;
+	margin: 0;
+	padding: 0;
+	position: center;
+	width: 100%;
+}
+
+#header img{
+	padding-top: 5%; 
+    padding-left: 5%;
+    padding-bottom: 5%; 
+    padding-right: 5%;
+    height: 50px;
+    width: 50px;
+}
+
+#content {
+  background-color: white;
+  margin:5px;
+  padding: 5px;
+  position: center;
+  width: 100%;
+}
